@@ -11,7 +11,7 @@
 
 class red {
     printRed = ()=>{
-        console.log("Helaaaaddsssslo freom red")
+        console.log("Hello freom red")
     }
 }
 class car extends red{
